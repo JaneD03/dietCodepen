@@ -1,0 +1,7 @@
+{
+  "name": "dietApp",
+  "app_id": "",
+  "watchPatterns": [
+    "www/**/*"
+  ]
+}
